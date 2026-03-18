@@ -34,9 +34,18 @@ and system administration.
 
 ## Screenshots
 
-<img width="1022" height="480" alt="ipconfig-static-ip" src="https://github.com/user-attachments/assets/0320f13a-7a8e-4a84-8e71-271c5d3a600d" />
-
-<img width="1023" height="765" alt="user-accounts-net-user" src="https://github.com/user-attachments/assets/de1a2e04-93ef-4fd1-b457-b786fd4474cd" />
 
 ## Work Log
 See `Day1-WorkLog.txt` in this repository.
+
+## Lab Roadmap
+
+| Task | Status |
+|------|--------|
+| Windows 11 VM setup + network config |  Complete |
+| Local user account management |  Complete |
+| Ticketing system (Freshdesk) |  In Progress |
+| PowerShell automation scripts |  Planned |
+| Active Directory home lab |  Planned |
+| Remote support simulation |  Planned |
+| CompTIA A+ certification |  Studying |
