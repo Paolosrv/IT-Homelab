@@ -1,5 +1,3 @@
-# IT-Homelab
-Windows 11 home lab for IT Support skills building 
 # IT Home Lab — Windows 11 Pro
 
 ## Overview
@@ -9,6 +7,7 @@ IT support tasks including user account management, network configuration,
 and system administration.
 
 ## Lab Environment
+
 | Component | Details |
 |-----------|---------|
 | Hypervisor | VirtualBox 7.2.6 |
@@ -18,28 +17,29 @@ and system administration.
 | Hostname | HELPDESK-PC01 |
 | Static IP | 10.0.2.50 / 24 |
 
-## What I configured
+## What I Configured
 - Enabled EFI for Windows 11 compatibility
-- Installed VirtualBox Guest Additions
-- Set static IP address (10.0.2.50) with Google DNS
+- Installed VirtualBox Guest Additions — clipboard and drag/drop working
+- Set static IP address (10.0.2.50) with Google DNS (8.8.8.8)
 - Created local user accounts with correct permission levels:
   - `j.smith` — Standard User (simulates employee account)
   - `s.jones` — Standard User (simulates employee account)
   - `it.helpdesk` — Local Administrator (IT support account)
+- Renamed PC to HELPDESK-PC01 following IT naming conventions
 - Documented all changes in a work log
 
-## Skills demonstrated
-`VirtualBox` `Windows 11` `Network configuration` `User account management`
-`Static IP` `Command Prompt` `IT documentation`
+## Skills Demonstrated
+`VirtualBox` `Windows 11` `Network Configuration` `User Account Management`
+`Static IP` `Command Prompt` `IT Documentation` `EFI/UEFI`
 
 ## Screenshots
 
-<img width="1022" height="480" alt="ipconfig-static-ip" src="https://github.com/user-attachments/assets/c03325a2-8fd4-4d76-8dec-5e4fa30848a7" />
+![Static IP configuration via ipconfig](ipconfig-output.png)
 
-<img width="1023" height="765" alt="user-accounts-net-user" src="https://github.com/user-attachments/assets/b852c232-a151-4a16-86c6-ac64b73afecf" />
+![User accounts created via net user](user-accounts.png)
 
 ## Work Log
-See `Day1-WorkLog.txt` in this repository.
+See [Day1-worklog.txt](Day1-worklog.txt) in this repository.
 
 ## Lab Roadmap
 
