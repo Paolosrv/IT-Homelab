@@ -40,8 +40,3 @@ and system administration.
 
 ## Work Log
 See `Day1-WorkLog.txt` in this repository.
-
-[Day1-worklog.txt](https://github.com/user-attachments/files/26087188/Day1-worklog.txt)
-IT HOME LAB - WORK LOG DATE: 17/03/2026 Technician "Paolo Revollo" Machine "HELPDESK-PC01=================================================
-Task: Build Windows 11 Pro home lab in VirtualBox COMPLETED: - Virtual Box 7.X installed with extension Pack - VM created: 2 vCPUs, 8GB RAM, 60GB VID disk compatibility - Guest Additions installed - clipboard working - static IP configured: 10.0.2.50/24 GW: 10.0.2.2 DNS: 8.8.8.8 - Hostname set to HELPDESK-PC01 - User Accounts created: j.smith - Standard User s.jones - Standard User it.deskhelp - Local Administrator - Connectivity verified: ping 8.8.8.8 and google.com successful - snapshot taken:"Day1 complete" ISSUES encountered: "Change graphics controller to VMSVGA to run and install the system"
-Learning: Basic VM settings, networking config and User accounts settings.
