@@ -25,6 +25,7 @@ ISSUES ENCOUNTERED:
   Windows 11 installer would run correctly.
   Fix: VirtualBox Settings → Display → Graphics Controller → VMSVGA
 
+
 KEY LEARNINGS:
 - Basic VM settings and hardware allocation for Windows 11
 - Network configuration — static IP, gateway, and DNS setup
