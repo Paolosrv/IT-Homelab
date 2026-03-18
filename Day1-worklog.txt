@@ -1,4 +1,32 @@
-IT HOME LAB - WORK LOG DATE: 17/03/2026 Technician "Paolo Revollo" Machine "HELPDESK-PC01=================================================
-Task: Build Windows 11 Pro home lab in VirtualBox COMPLETED: - Virtual Box 7.X installed with extension Pack - VM created: 2 vCPUs, 8GB RAM, 60GB VID disk compatibility - Guest Additions installed - clipboard working - static IP configured: 10.0.2.50/24 GW: 10.0.2.2 DNS: 8.8.8.8 - Hostname set to HELPDESK-PC01 - User Accounts created: j.smith - Standard User s.jones - Standard User it.deskhelp - Local Administrator - Connectivity verified: ping 8.8.8.8 and google.com successful - snapshot taken:"Day1 complete" ISSUES encountered: "Change graphics controller to VMSVGA to run and install the system"
-Learning: Basic VM settings, networking config and User accounts settings.
+IT HOME LAB - WORK LOG 
+DATE: 17/03/2026 
+Technician Paolo Revollo 
+Machine: HELPDESK-PC01
+=================================================
 
+Task: Build Windows 11 Pro home lab in VirtualBox 
+
+COMPLETED: 
+- Virtual Box 7.2.6 installed with extension Pack 
+- VM created: 2 vCPUs, 8GB RAM, 60GB VID disk compatibility 
+- Guest Additions installed 
+- clipboard working 
+- static IP configured: 10.0.2.50/24 GW: 10.0.2.2 DNS: 8.8.8.8 
+- Hostname set to HELPDESK-PC01 
+- User Accounts created: 
+  j.smith - Standard User (simulates employee account)
+  s.jones - Standard User (simulates employee account)
+  it.deskhelp - Local Administrator (IT support account)
+- Connectivity verified: ping 8.8.8.8 and google.com successful 
+- snapshot taken:Day1 complete 
+
+ISSUES ENCOUNTERED:
+- Graphics controller needed to be changed to VMSVGA before
+  Windows 11 installer would run correctly.
+  Fix: VirtualBox Settings → Display → Graphics Controller → VMSVGA
+
+KEY LEARNINGS:
+- Basic VM settings and hardware allocation for Windows 11
+- Network configuration — static IP, gateway, and DNS setup
+- Local user account creation and permission levels (Standard vs Admin)
+- Importance of documenting issues and fixes during lab work
