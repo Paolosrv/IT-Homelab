@@ -34,8 +34,10 @@ and system administration.
 
 ## Screenshots
 
+<img width="1022" height="480" alt="ipconfig-static-ip" src="https://github.com/user-attachments/assets/9ffbfcd2-1ef6-4733-88be-6714e641ea17" />
 ![Static IP configuration via ipconfig](ipconfig-output.png)
 
+<img width="1023" height="765" alt="user-accounts-net-user" src="https://github.com/user-attachments/assets/774355c6-63f7-43b5-9f0e-efb6d483fef6" />
 ![User accounts created via net user](user-accounts.png)
 
 ## Work Log
