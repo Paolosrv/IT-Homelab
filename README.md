@@ -34,6 +34,9 @@ and system administration.
 
 ## Screenshots
 
+<img width="1022" height="480" alt="ipconfig-static-ip" src="https://github.com/user-attachments/assets/c03325a2-8fd4-4d76-8dec-5e4fa30848a7" />
+
+<img width="1023" height="765" alt="user-accounts-net-user" src="https://github.com/user-attachments/assets/b852c232-a151-4a16-86c6-ac64b73afecf" />
 
 ## Work Log
 See `Day1-WorkLog.txt` in this repository.
