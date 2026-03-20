@@ -49,7 +49,7 @@ See [Day1-worklog.txt](Day1-worklog.txt) in this repository.
 |------|--------|
 | Windows 11 VM setup + network config |  Complete |
 | Local user account management |  Complete |
-| Ticketing system (Freshdesk) |  In Progress |
+| Ticketing system (Freshdesk) |  Complete |
 | PowerShell automation scripts |  Planned |
 | Active Directory home lab |  Planned |
 | Remote support simulation |  Planned |
