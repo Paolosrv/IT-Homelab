@@ -50,7 +50,7 @@ See [Day1-worklog.txt](Day1-worklog.txt) in this repository.
 | Windows 11 VM setup + network config |  Complete |
 | Local user account management |  Complete |
 | Ticketing system (Freshdesk) |  Complete |
-| PowerShell automation scripts |  Planned |
+| PowerShell automation scripts |  Progress |
 | Active Directory home lab |  Planned |
 | Remote support simulation |  Planned |
 | CompTIA A+ certification |  Studying |
