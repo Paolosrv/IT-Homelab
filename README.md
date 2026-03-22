@@ -51,6 +51,6 @@ See [Day1-worklog.txt](Day1-worklog.txt) in this repository.
 | Local user account management |  Complete |
 | Ticketing system (Freshdesk) |  Complete |
 | PowerShell automation scripts |  Compete |
-| Active Directory home lab |  Progress |
+| Active Directory home lab |  Complete |
 | Remote support simulation |  Planned |
 | CompTIA A+ certification |  Studying |
